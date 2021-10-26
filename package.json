@@ -1,0 +1,40 @@
+{
+  "name": "cloudbucket",
+  "version": "0.6.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "~0.2.10",
+    "cheerio": "*",
+    "express": "3.x",
+    "jade": "*",
+    "connect-mongo": "*",
+    "mongoose": "*",
+    "mongoosastic": "*",
+    "newrelic": "~1.3.0",
+    "request": "*",
+    "emailjs": "*",
+    "dropbox": "*",
+    "passport": "*",
+    "passport-local": "*",
+    "passport-google-oauth": "*",
+    "underscore": "*",
+    "underscore.string": "*",
+    "moment": "*",
+    "filesize": "*",
+    "aws-sdk": "*",
+    "case": "*",
+    "alchemy-api": "*",
+    "musicmetadata": "*",
+    "restler": "*",
+    "connect-flash": "*",
+    "epub-parser": "*",
+    "fluent-ffmpeg": "*",
+    "grunt": "*",
+    "grunt-contrib-requirejs": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-less": "*"
+  }
+}
