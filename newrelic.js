@@ -6,4 +6,25 @@ exports.config = {
   logging : {
     level : 'info'
   }
+  = {
+  app_name : ['cloudbucket'],
+  license_key : config.newrelic.key,
+  logging : {
+    level : 'info'
+    = {
+  app_name : ['cloudbucket'],
+  license_key : config.newrelic.key,
+  logging : {
+    level : 'info'
+    = {
+  app_name : ['cloudbucket'],
+  license_key : config.newrelic.key,
+  logging : {
+    level : 'info'
+    = {
+  app_name : ['cloudbucket'],
+  license_key : config.newrelic.key,
+  logging : {
+    level : 'info'
+    
 };
